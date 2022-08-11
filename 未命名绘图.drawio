@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-11T03:42:52.976Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="hzImEzW0oDSN4sgFkHr9" version="20.2.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-08-11T03:43:36.196Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="q0tRY0yyIXvMjE3k1iPB" version="20.2.3" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -309,8 +309,8 @@
         <mxCell id="Kdez6f2iPKodPhuXii1K-5" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;接收设备1&lt;/font&gt;&lt;/font&gt;" style="image;html=1;image=img/lib/clip_art/computers/iPad_128x128.png;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="466" y="170" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Kdez6f2iPKodPhuXii1K-6" value="对话控制" style="image;html=1;image=img/lib/clip_art/computers/IBM_Tablet_128x128.png;fontSize=4;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="680" y="405" width="80" height="80" as="geometry" />
+        <mxCell id="Kdez6f2iPKodPhuXii1K-6" value="前段对话控制" style="image;html=1;image=img/lib/clip_art/computers/IBM_Tablet_128x128.png;fontSize=4;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="380" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Kdez6f2iPKodPhuXii1K-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;shadow=0;dashed=1;fontSize=4;endArrow=open;endFill=0;" edge="1" parent="1" source="Kdez6f2iPKodPhuXii1K-8" target="Kdez6f2iPKodPhuXii1K-5">
           <mxGeometry relative="1" as="geometry" />
